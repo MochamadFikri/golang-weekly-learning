@@ -1,0 +1,37 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories (if using go mod vendor)
+vendor/
+
+# Go workspace file (if using Go 1.18+ workspaces)
+go.work
+go.work.sum
+
+# IDE/editor specific
+.vscode/
+.idea/
+*.swp
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# By default, don't include compiled objects
+*.o
+*.a
+
+# Optional: GitHub codespaces and devcontainers
+.devcontainer/
