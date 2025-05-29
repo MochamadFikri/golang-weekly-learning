@@ -2,9 +2,11 @@
 
 Kumpulan proyek mingguan untuk mendokumentasikan perjalanan saya mempelajari Golang dari nol hingga mahir.
 
-🎯 Target: Mahir Golang & siap jadi Backend Developer
+🎯 Target: Mahir Golang & siap jadi Backend Developer.
+
+📌 Postingan mingguan juga saya bagikan di LinkedIn.
+
 📅 Progress: 1 minggu = 1 mini-project  
-📌 Postingan mingguan juga saya bagikan di LinkedIn
 
 ---
 
