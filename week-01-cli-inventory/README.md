@@ -29,7 +29,7 @@ go run main.go
 29 Mei 2025
 
 ## 🔗 Post Terkait
-LinkedIn Post: [akan di-update setelah post](#)
+LinkedIn Post: https://www.linkedin.com/posts/activity-7335634520777379840-tIwG
 
 ---
 
