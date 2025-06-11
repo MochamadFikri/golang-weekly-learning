@@ -35,8 +35,6 @@ week-03-todo/
 
 ## 🛠 Cara Menjalankan
 
-1. Clone repo ini:
-
 ```bash
 go run main.go
 ```
