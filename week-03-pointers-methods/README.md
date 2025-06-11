@@ -24,11 +24,12 @@ Mini project sederhana untuk latihan pemahaman konsep **Pointer** dan **Receiver
 ---
 
 ## 🧱 Struktur Proyek
+```
 week-03-todo/
 ├── main.go # Entry point aplikasi CLI
 └── todo/
 └── todo.go # Struct Todo & TodoList serta method-method receiver
-
+```
 
 ---
 
@@ -38,3 +39,4 @@ week-03-todo/
 
 ```bash
 go run main.go
+```

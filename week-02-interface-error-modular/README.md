@@ -18,6 +18,8 @@ Mini project kedua: belajar konsep penting Golang seperti interface, error handl
 
 ```bash
 go run main.go
+```
+
 
 ## 📅 Tanggal
 29 Mei 2025
@@ -39,3 +41,4 @@ LinkedIn Post: [akan di-update setelah post](#)
 ├── utils/
 │   └── divide.go
 └── README.md
+```
