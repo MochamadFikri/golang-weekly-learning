@@ -15,4 +15,6 @@ Kumpulan proyek mingguan untuk mendokumentasikan perjalanan saya mempelajari Gol
 | Minggu | Proyek |
 |--------|--------|
 | Week 1 | CLI Inventaris Barang |
-| Week 2 | (Coming Soon) |
+| Week 2 | Interface, Error Handling & Modular Project |
+| Week 3 | Pointers & Receiver Method |
+| Week 4 | (Coming Soon) |
