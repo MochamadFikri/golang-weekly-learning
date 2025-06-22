@@ -18,4 +18,5 @@ Kumpulan proyek mingguan untuk mendokumentasikan perjalanan saya mempelajari Gol
 | Week 2 | Interface, Error Handling & Modular Project |
 | Week 3 | Pointers & Receiver Method |
 | Week 4 | Module, Dependency Management (go mod) |
-| Week 5 | (Coming Soon) |
+| Week 5 | Routing dengan Gin |
+| Week 6 | (Coming Soon) |
