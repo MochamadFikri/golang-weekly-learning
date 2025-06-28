@@ -28,11 +28,11 @@ Mini project sederhana untuk latihan memahami konsep **JSON Binding** dan **Vali
 
 week-06-register-validation/
 ├── controllers/
-│   └── user\_controller.go   # Handler untuk endpoint register
+│   └── user_controller.go   # Handler untuk endpoint register
 ├── models/
 │   └── user.go              # Struct input user
 ├── routes/
-│   └── user\_routes.go       # Routing endpoint register
+│   └── user_routes.go       # Routing endpoint register
 ├── go.mod                   # Modul dan dependency Go
 ├── go.sum                   # Checksum dependency
 └── main.go                  # Entry point aplikasi
