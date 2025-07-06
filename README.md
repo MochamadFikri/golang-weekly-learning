@@ -20,4 +20,5 @@ Kumpulan proyek mingguan untuk mendokumentasikan perjalanan saya mempelajari Gol
 | Week 4 | Module, Dependency Management (go mod) |
 | Week 5 | Routing dengan Gin |
 | Week 6 | JSON binding + validasi input manual |
-| Week 7 | (Coming Soon) |
+| Week 7 | Middleware di Gin |
+| Week 8 | (Coming Soon) |
